@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Trabalho-POO
-=======
+
 # 💳 Sistema de Pagamentos — Polimorfismo em Java
 
 Este projeto foi desenvolvido como parte da atividade de **Programação Orientada a Objetos** do **IF Goiano**, com foco em **Polimorfismo, Sobrescrita e Classes Abstratas**.
