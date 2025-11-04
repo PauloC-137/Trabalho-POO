@@ -29,4 +29,8 @@ Compile e execute com:
 ```bash
 javac Main.java
 java Main
+<<<<<<< HEAD
 >>>>>>> cfdf34f (Teste)
+=======
+
+>>>>>>> 3d511e0 (Atualização geral)
